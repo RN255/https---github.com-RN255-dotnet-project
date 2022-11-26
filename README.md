@@ -1,5 +1,5 @@
 ## Project Name: .NET Project
-A project using dotnet to create a database of jokes.
+A project using .NET to create a database of jokes.
 
 ## Motivation
 I wanted to learn .NET so followed this tutorial.
